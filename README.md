@@ -1,9 +1,9 @@
-  //这些东西以后再来填吧
+
 - 👋 Hi, I’m @spicyGrape
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Machine Learing and Computational Neuroscience
+- 🌱 I’m currently learning the course cs61a
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me at li.private0@gmail.com
 
 <!---
 spicyGrape/spicyGrape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
