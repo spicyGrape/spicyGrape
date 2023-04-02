@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @spicyGrape
+- 👋 Hi, I’m shuaiting
 - 👀 I’m interested in Machine Learing and Computational Neuroscience
 - 🌱 I’m currently learning the course cs61a
 - 💞️ I’m looking to collaborate on ...
